@@ -7,4 +7,4 @@ Briefly, there are two ways to create a Venn Diagram.  You can provide a matrix 
 
 For more information, a helpful user manual is at https://cran.r-project.org/web/packages/VennDiagram/VennDiagram.pdf
 
-The code is contained in an R script that can be opened and run in R or R Studio.
+The code is contained in the R script [Create_Venn_Diagram.R](https://github.com/scienceystuff/Create_Venn_Diagram_in_R/blob/master/Create_Venn_Diagram.R), which can be opened and run in R or R Studio.
